@@ -17,6 +17,7 @@ div, h1 {
 
 h1.h1ColorDownThePage {
     color: midnightblue;
+    font-family: "Arial";
 }
 
 .indexList a {
