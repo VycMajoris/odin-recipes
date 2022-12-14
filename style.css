@@ -1,0 +1,25 @@
+.pageHeading {
+    text-align: center;
+    color: darkred;
+}
+
+.indexList a {
+    color:rgb(22, 190, 233);
+}
+
+div, h1 {
+    text-align: center;
+}
+
+.recipePagesHeadingColor {
+    color: lightsalmon;
+}
+
+h1.h1ColorDownThePage {
+    color: midnightblue;
+}
+
+.indexList a {
+    font-size: 24px;
+    font-weight: 500;
+}
